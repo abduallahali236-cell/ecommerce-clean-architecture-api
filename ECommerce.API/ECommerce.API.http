@@ -1,0 +1,99 @@
+@E_Commerce.API_HostAddress = https://localhost:7223
+# Change the port to your application's port
+
+###
+# Register
+
+POST {{Host}}/api/auth/register
+Content-Type: application/json
+
+{
+  "fullName": "John Doe",
+  "email": "john@example.com",
+  "password": "Password123!"
+}
+
+###
+
+# Login
+
+POST {{Host}}/api/auth/login
+Content-Type: application/json
+
+{
+  "email": "john@example.com",
+  "password": "Password123!"
+}
+
+###
+
+# Get Products
+
+GET {{Host}}/api/products
+Accept: application/json
+
+###
+
+# Search Products
+
+GET {{Host}}/api/products?search=iphone
+Accept: application/json
+
+###
+
+# Get Product
+
+GET {{Host}}/api/products/1
+Accept: application/json
+
+###
+
+# Get Categories
+
+GET {{Host}}/api/categories
+Accept: application/json
+
+###
+
+# Get Cart
+
+GET {{Host}}/api/cart
+Authorization: Bearer {{token}}
+
+###
+
+# Add To Cart
+
+POST {{Host}}/api/cart
+Authorization: Bearer {{token}}
+Content-Type: application/json
+
+{
+  "productId": 1,
+  "quantity": 2
+}
+
+###
+
+# Create Order
+
+POST {{Host}}/api/orders
+Authorization: Bearer {{token}}
+
+{}
+
+###
+
+# Get Orders
+
+GET {{Host}}/api/orders
+Authorization: Bearer {{token}}
+
+###
+
+# Get Profile
+
+GET {{Host}}/api/users/me
+Authorization: Bearer {{token}}
+
+###

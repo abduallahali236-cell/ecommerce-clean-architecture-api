@@ -1,0 +1,15 @@
+E:\Abdo\programming\E-Commerce\ECommerce.Application\bin\Debug\net10.0\ECommerce.Application.deps.json
+E:\Abdo\programming\E-Commerce\ECommerce.Application\bin\Debug\net10.0\ECommerce.Application.dll
+E:\Abdo\programming\E-Commerce\ECommerce.Application\bin\Debug\net10.0\ECommerce.Application.pdb
+E:\Abdo\programming\E-Commerce\ECommerce.Application\bin\Debug\net10.0\ECommerce.Domain.dll
+E:\Abdo\programming\E-Commerce\ECommerce.Application\bin\Debug\net10.0\ECommerce.Domain.pdb
+E:\Abdo\programming\E-Commerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.csproj.AssemblyReference.cache
+E:\Abdo\programming\E-Commerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abdo\programming\E-Commerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.AssemblyInfoInputs.cache
+E:\Abdo\programming\E-Commerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.AssemblyInfo.cs
+E:\Abdo\programming\E-Commerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.csproj.CoreCompileInputs.cache
+E:\Abdo\programming\E-Commerce\ECommerce.Application\obj\Debug\net10.0\ECommerc.670E0CBE.Up2Date
+E:\Abdo\programming\E-Commerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.dll
+E:\Abdo\programming\E-Commerce\ECommerce.Application\obj\Debug\net10.0\refint\ECommerce.Application.dll
+E:\Abdo\programming\E-Commerce\ECommerce.Application\obj\Debug\net10.0\ECommerce.Application.pdb
+E:\Abdo\programming\E-Commerce\ECommerce.Application\obj\Debug\net10.0\ref\ECommerce.Application.dll
